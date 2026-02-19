@@ -1,0 +1,9 @@
+# Requirements for Todo Application
+# This application uses only Python standard library components
+# Python 3.13+ is required
+
+# No external packages required for basic functionality
+# The application uses only standard library modules:
+# - dataclasses
+# - typing
+# - built-in dict and other standard types
